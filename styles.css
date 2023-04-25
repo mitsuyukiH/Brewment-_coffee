@@ -10869,7 +10869,7 @@ html {
 
 .bg-gradient-primary-to-secondary {
 
-  background-image: url(/assets/img/coffee_beans.png) !important;
+  background-image: url(coffee_beans.png) !important;
   background-size:contain;
   
 }
@@ -10974,7 +10974,7 @@ section {
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url("../assets/img/portrait_black.png");
+  background-image: url("portrait_black.png");
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .button {
@@ -10996,7 +10996,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("/assets/img/drink-coffee.jpg");
+  background-image: url("drink-coffee.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -11127,7 +11127,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
-  background-image: url(/assets/img/bg.jpg);
+  background-image: url(bg.jpg);
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
